@@ -1,4 +1,4 @@
-# Algorithm in Python
+# Algorithms in Python
 
 * __Sprint 02__ - Basic Data Structures
 * __Sprint 03__ - Recusion and Sorting
